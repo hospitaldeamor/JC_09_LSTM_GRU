@@ -49,8 +49,9 @@ Para um melhor entendimento teórico sobre métodos de aprendizado profundo e ML
 
 ---
 ## :books: **Referências**
-[Kaggle 01](https://www.kaggle.com/code/ahmedashrafhelmi/medical-text-classification-bilstm-bigru-conv1d#Data-Preprocessing)
-[Kaggle 02](https://www.kaggle.com/code/sukritsingh1234/cnn-lstm/notebook)
+- [Kaggle 01](https://www.kaggle.com/code/ahmedashrafhelmi/medical-text-classification-bilstm-bigru-conv1d#Data-Preprocessing)
+- [Kaggle 02](https://www.kaggle.com/code/sukritsingh1234/cnn-lstm/notebook)
+
 ---
 ## 💬 **Contato**
 
